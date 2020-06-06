@@ -2,3 +2,4 @@
 A repo made for learning purpose
 I made small changes..
 I tryinn to learning new things about git
+i trying to commit new msg
